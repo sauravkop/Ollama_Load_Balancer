@@ -19,3 +19,16 @@ Ollama 负载均衡服务器是一款高性能、易配置的开源负载均衡�
 ## 说明
 
 `ollama.db`: 存储源服务器列表，通过`/api/tags`接口获取，可使用自建Ollama或公网开放的Ollama服务器
+
+## 支持接口
+
+`/`: Ollama is running
+`/api/tags`: 已启用的模型列表
+`/v1/models`: 已启用的模型列表(OpenAI接口)
+`/api/version`: Ollama版本号
+`/api/chat`：LLM模型调用
+`/api/embed`：embedding模型调用
+`/api/embeddings`：embedding模型调用
+
+不支持`/api/show`、`/api/copy`、`/api/create`、`/api/push`、`/api/delete`、`/api/pull`、`/api/ps`等有一定危险性的接口
+
